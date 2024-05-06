@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a high school student in Canada
+- 🌱 Python, Machine Learning and Deep Learning 
+
 <!--
 **Harryjin0326/Harryjin0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
